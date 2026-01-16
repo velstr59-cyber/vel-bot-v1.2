@@ -1,0 +1,14 @@
+{
+  "name": "vel-bot-v1.2",
+  "version": "1.2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^8.16.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0"
+  }
+}
